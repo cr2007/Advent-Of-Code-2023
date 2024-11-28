@@ -5,7 +5,7 @@
 	"editor.bracketPairColorization.enabled": true,
 	"editor.indentSize": "tabSize",
 	"editor.tabSize": 4,
-	"editor.minimap.scale": 2,
+	"editor.minimap.scale": 1,
 	"editor.renderWhitespace": "all",
 	"files.trimTrailingWhitespace": true,
 	"editor.wordWrap": "on",
